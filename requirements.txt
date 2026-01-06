@@ -1,0 +1,21 @@
+# Web Framework
+fastapi
+uvicorn
+python-multipart
+pydantic
+
+# AI & Data Processing
+numpy
+pandas
+faiss-cpu
+google-generativeai
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+# Utilities
+python-dotenv
+openpyxl
+scikit-learn
+pickle-mixin
